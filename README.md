@@ -17,6 +17,12 @@ My work spans reinforcement learning for software-defined networks, local large 
 
 - **[Truth Engine — Explainable Fact-Checking](https://github.com/tonyrub3/hackathonCodeMotion)** — a collaborative project exploring source-traced verification, LLM-based claim analysis, and transparent evidence reporting with FastAPI and Next.js.
 
+## 🛠️ Technologies & tools
+
+- **AI & machine learning:** Python, PyTorch, scikit-learn, Hugging Face, FAISS
+- **Networking & infrastructure:** Linux, Git, Docker, Ryu, Mininet, OpenFlow, Apache Kafka
+- **Application development:** Flutter, Dart, Firebase, JavaScript
+
 ## 🎯 What matters to me
 
 I care about **reproducible experiments, honest evaluation, clean architecture, and practical engineering**. In research projects, I aim to document not only what works, but also what fails and why.

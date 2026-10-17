@@ -13,6 +13,10 @@ My work spans reinforcement learning for software-defined networks, local large 
 - **Embeddings and semantic search** — building retrieval and matching pipelines with sentence embeddings, FAISS, and vector databases.
 - **Distributed software** — connecting data pipelines, backend services, and user-facing applications.
 
+## 🤝 Public collaboration
+
+- **[Truth Engine — Explainable Fact-Checking](https://github.com/tonyrub3/hackathonCodeMotion)** — a collaborative project exploring source-traced verification, LLM-based claim analysis, and transparent evidence reporting with FastAPI and Next.js.
+
 ## 🎯 What matters to me
 
 I care about **reproducible experiments, honest evaluation, clean architecture, and practical engineering**. In research projects, I aim to document not only what works, but also what fails and why.
